@@ -1,1 +1,6 @@
-# Get_post_port
+# port trouble shooting 
+
+```netstat``` 
+
+
+## basic components 
